@@ -1,1 +1,1 @@
-# NFT-Licence
+# NFT Exclusive Licence
