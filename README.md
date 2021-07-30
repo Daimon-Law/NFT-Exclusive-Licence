@@ -35,4 +35,5 @@ The License seeks to permanently tie certain intellectual property rights in an 
 
 Under the License, the artist retains ownership of inviolable moral rights and other intellectual property rights in the image. The sale of the NFT is not a sale of the image, but a license of certain rights in the image.
 
-I hope you can find some use from the attached licence or even contribute to its continued development and improvement.
+I hope the reader will find some use from the attached licence or even contribute to its continued development and improvement.
+
