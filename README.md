@@ -2,7 +2,7 @@
 
 This work was published to fill a gap in the licensing documents available to NFT creators, platforms and collectors and to inspire better versions of NFT licensing for use by this community. It is the work of [Paul Imseih](https://www.linkedin.com/in/pimseih/) and is licensed for use under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-It was initially inspired by the work of  [Gabriel Shapiro](https://twitter.com/lex_node) & [Stuart Smolen](https://bsvlaw.com/team/stuart-smolen-partner/) who developed a Rarible-sponsored version of NFT licensing. The author thanks in particular [Gabriel Shapiro](https://twitter.com/lex_node) for the huge amount of work and research that he has shared with the world.
+It was initially inspired by the work of  [Gabriel Shapiro](https://twitter.com/lex_node) & [Stuart Smolen](https://bsvlaw.com/team/stuart-smolen-partner/) who developed a Rarible-sponsored version of NFT licensing. The author is especially grateful to [Gabriel Shapiro](https://twitter.com/lex_node) for the huge amount of work and research that he has shared freely with the crypto community and legal colleagues.
 
 That said, the author identified several major issues with the [Rarible licensing model](https://github.com/rariblecom/nft-license) as it appears to have been derived from the position of that platform's specific needs and commercial imperatives. In short, it didn't seem fair to collectors, users or NFT Creators. It granted NFT platforms the broadest set of rights while taking on the bare minimum of risk, passing that on to Collectors and NFT Creators.
 
